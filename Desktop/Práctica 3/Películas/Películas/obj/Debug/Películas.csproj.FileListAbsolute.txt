@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Películas\Películas\obj\Debug\Películas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Películas\Películas\obj\Debug\Películas.Form1.resources
+C:\Users\User\Desktop\Películas\Películas\obj\Debug\Películas.Properties.Resources.resources
+C:\Users\User\Desktop\Películas\Películas\obj\Debug\Películas.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Películas\Películas\obj\Debug\Películas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Películas\Películas\bin\Debug\Películas.exe.config
+C:\Users\User\Desktop\Películas\Películas\bin\Debug\Películas.exe
+C:\Users\User\Desktop\Películas\Películas\bin\Debug\Películas.pdb
+C:\Users\User\Desktop\Películas\Películas\obj\Debug\Películas.exe
+C:\Users\User\Desktop\Películas\Películas\obj\Debug\Películas.pdb
