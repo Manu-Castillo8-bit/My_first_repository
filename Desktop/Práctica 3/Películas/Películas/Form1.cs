@@ -33,7 +33,7 @@
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("Error de conexión y una prueba  de vs code en chromebook quiero ver esto" + ex);
+                    MessageBox.Show("Error de conexión y una prueba  de vs code en chromebook quiero ver esto..." + ex);
                 }
             }
 
